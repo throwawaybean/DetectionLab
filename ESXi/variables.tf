@@ -5,7 +5,7 @@
 #  Instead, create a terrform.tfvars file to override them.
 
 variable "esxi_hostname" {
-  default = ""
+  default = "10.172.60.40"
 }
 
 variable "esxi_hostport" {
