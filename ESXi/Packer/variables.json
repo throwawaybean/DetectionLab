@@ -1,7 +1,7 @@
 {
-    "esxi_host": "",
-    "esxi_datastore": "",
-    "esxi_username": "",
-    "esxi_password": "",
-    "esxi_network_with_dhcp_and_internet": ""
+    "esxi_host": "10.172.60.40",
+    "esxi_datastore": "datastore1",
+    "esxi_username": "root",
+    "esxi_password": "Password1!",
+    "esxi_network_with_dhcp_and_internet": "10.172.60.40"
 }
