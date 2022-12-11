@@ -118,7 +118,7 @@
       exit 0 
     fi
     if [ -f /sys/class/net/eth2/address ]; then
-      if [ "$(cat /sys/class/net/eth2/address)" == "00:50:56:a3:b1:c4" ]; then
+      if [ "$(cat /sys/class/net/eth2/address)" == "00:00:00:00:5a:2b" ]; then
         echo "[*] Using ESXi, no need to change anything"
         exit 0
       fi
